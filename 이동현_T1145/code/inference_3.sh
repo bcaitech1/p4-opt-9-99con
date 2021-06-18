@@ -1,0 +1,1 @@
+python 99inference.py --weight exp/2021-06-11_01-44-08_15857808/best.pt --model_config exp/2021-06-11_01-44-08_15857808/model.yml --data_config exp/2021-06-11_01-44-08_15857808/data.yml --img_root /opt/ml/input/data/test --dst exp/2021-06-11_01-44-08_15857808

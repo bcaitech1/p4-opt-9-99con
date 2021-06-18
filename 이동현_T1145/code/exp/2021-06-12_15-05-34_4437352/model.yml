@@ -1,0 +1,8 @@
+input_size:
+- 64
+- 64
+model_name: shufflenet_v2_x0_5
+pretrained: true
+input_channel: 3
+depth_multiple: 1.0
+width_multiple: 1.0

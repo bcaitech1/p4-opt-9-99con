@@ -1,0 +1,1 @@
+python inference.py --weight exp/2021-06-12_15-05-34_4437352/best.pt --model_config exp/2021-06-12_15-05-34_4437352/model.yml --data_config exp/2021-06-12_15-05-34_4437352/data.yml --img_root /opt/ml/input/data/test --dst exp/2021-06-12_15-05-34_4437352

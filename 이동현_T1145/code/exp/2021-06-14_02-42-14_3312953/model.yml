@@ -1,0 +1,5 @@
+input_size:
+- 60
+- 60
+model_name: shufflenet_v2_x0_5
+pretrained: true

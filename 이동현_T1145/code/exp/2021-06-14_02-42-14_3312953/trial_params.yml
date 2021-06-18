@@ -1,0 +1,7 @@
+batch_size: 8
+epochs: 45
+img_size: 60
+model_name: shufflenet_v2_x0_5
+n_select: 0
+pretrained: true
+val_ratio: 0.2601648545237804
